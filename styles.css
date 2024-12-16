@@ -67,8 +67,40 @@ body {
   background-color: #cdc1b4;
 }
 .grid .tile[data-value="2"] {
-  background-color: #eee4da;
+  background-color: #EDE7DC;
 }
 .grid .tile[data-value="4"] {
-  background-color: #ede0c8;
+  background-color: #EDE0C8;
+}
+.grid .tile[data-value="8"] {
+  background-color: #F2B27D;
+}
+.grid .tile[data-value="16"] {
+  background-color: #F59563;
+  color: #ede4db;
+}
+.grid .tile[data-value="32"] {
+  background-color: #F57C5F;
+  color: #ede4db;
+}
+.grid .tile[data-value="64"] {
+  background-color: #F55D3E;
+  color: #ede4db;
+}
+.grid .tile[data-value="128"] {
+  background-color: #eadd97;
+}
+.grid .tile[data-value="256"] {
+  background-color: #f1d064;
+}
+.grid .tile[data-value="512"] {
+  background-color: #fac745;
+}
+.grid .tile[data-value="1024"] {
+  background-color: #f49734;
+  color: #ede4db;
+}
+.grid .tile[data-value="2048"] {
+  background-color: #ee761b;
+  color: #ede4db;
 }/*# sourceMappingURL=styles.css.map */
